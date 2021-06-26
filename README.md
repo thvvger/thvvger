@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Larry-Bill ADJE
 - 👀 I’m interested in Symfony
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning NestJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thvger@gmail.com
 
